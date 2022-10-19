@@ -267,7 +267,7 @@ def deletarpostagem(id_postagem):
         return jsonify({'mensagem':'postagem excluida com sucesso!'})   
 
 
-    
+    #coments
 
 if __name__ == '__main__':
 
